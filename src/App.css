@@ -1,0 +1,27 @@
+.movie{
+  font-size: xx-large;
+  color: #3ca6f4;
+  background-color:#eeeff5;
+  text-align:center;
+  height: 70px;
+  padding-top: 35px;
+  font-family:fantasy;
+  box-shadow: black;
+}
+
+.panel{
+  height: 40px;
+  padding-top: 10px;
+  box-shadow: black;
+  box-sizing: border-box;
+  text-align: center;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.acc{
+  text-align: center;
+}
+
+#PhoneInput{
+  width: 100%;
+}
